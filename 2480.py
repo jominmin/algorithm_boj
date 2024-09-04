@@ -16,8 +16,7 @@ elif A == C:
     print(1000 + A*100)
 
 else:
-    print(100*max(A,B,C))
-
+    print(100*max(A,B,C)) # 여러 개 중 가장 많은 것
 
 '''
 위에 있는 조건에 포함되는 조건은 추가하지 말기
