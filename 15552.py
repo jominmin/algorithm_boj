@@ -8,4 +8,5 @@ for i in range(n):
 '''
 input() 아니고 sys.stdin.readline()
 sys.stdin.readline() - 속도가 빠르다
+- 개행문자 입력받음 
 '''
